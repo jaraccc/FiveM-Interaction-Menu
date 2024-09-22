@@ -3,30 +3,15 @@
 A customizable and easy-to-use **Interaction Menu** for FiveM built using **MenuAPI**. This menu provides a variety of options for managing player interactions, vehicles, props, scene control, and more, making it a versatile tool for roleplay servers.
 
 ## Features
+- **Civilian Options**: Access to emotes, props, and other roleplay features.
+- **Law Enforcement Options**: Manage cuffs, equipment loadouts, and vehicle controls.
+- **Vehicle Options**: Control doors, engine, and other vehicle functions.
+- **Scene Control**: Manage props, speed zones, and traffic control nodes.
+- **Settings Menu**: Customize your menu layout and appearance.
+- **Seamless Integration**: Works alongside other essential FiveM scripts.
 
-### Player Interaction
-- **Cuff / Uncuff**: Cuff or uncuff players, including different cuffing styles (front, rear, ziptie).
-- **Carry / Hands Up**: Interact with players by carrying them or making them raise their hands.
-- **Set Effects**: Apply various effects (Drunk, Meth, Weed, etc.) to your player character.
-- **Priority System**: Manage priority status during roleplay scenarios.
-
-### Vehicle Interaction
-- **Engine Control**: Start or stop the vehicle engine.
-- **Roll Windows**: Open or close front and rear vehicle windows.
-- **Doors**: Open or close individual doors (front left, right, rear left, right).
-- **Seat Shuffling**: Switch between the driver, passenger, or rear seats.
-- **Auto Lock / Unlock**: Automatically lock or unlock the vehicle.
-- **Flip Vehicle**: Flip an overturned vehicle.
-- **Boat Anchor**: Deploy or retrieve a boat's anchor.
-- **Auto Engine Start/Stop**: Enable or disable the auto engine start/stop feature.
-
-### Scene Control
-- **Scene Props**: Spawn and delete props like cones, barriers, lights, etc.
-- **Speed Zones**: Create or remove speed zones with customizable radius and speed.
-- **Traffic Node Manager**: Manage traffic nodes for dynamic scene control.
-
-### Customization
-- **Settings Menu**: Configure alignment for the menu (left or right) and view additional information about the menu.
+## Integration with Priority System
+This Interaction Menu integrates seamlessly with the [Priority System for FiveM](https://github.com/jaraccc/FiveM-Priority-System), allowing players to start, stop, and manage priorities directly from the menu. This system enhances roleplay by giving administrators and players direct control over server priorities and cooldowns.
 
 ## Installation
 
